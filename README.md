@@ -7,3 +7,4 @@ selected the header and froze it
 added borders for the whole table
 added green color to the header
 made the first line of the table below the header bold as well
+removed duplicates
